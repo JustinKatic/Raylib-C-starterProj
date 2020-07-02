@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Main.vcxproj, RaylibStarterCPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameApp.cpp
+  main.cpp
+  Generating Code...
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\raylib.pdb'; linking object as if no debug info
+  RaylibStarterCPP.vcxproj -> C:\Users\justi\OneDrive\Desktop\Repos\RaylibC++StarterProj\Raylib c++ starter reName Me\bin\x64\Debug\ReNameProjectName.exe
